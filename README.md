@@ -5,7 +5,12 @@ This projet is a socail media platform for artisit and fans. The main goal of th
 
 ## Documentation 
 
-## Nav Map
+### Nav Maps
 
-### Main Nav
+#### Main Nav
+
+Main navigation map 
+
+![Project Diagram](documentation/NavMap/MainNav.png)
+
 
